@@ -6,6 +6,6 @@ This is a [website](https://vicyoung.github.io)
 
 <html>
   <head>
-    <title>你好</title>
-    </head>
-  </html>
+    <h1>你好</h1>
+  </head>
+</html>
